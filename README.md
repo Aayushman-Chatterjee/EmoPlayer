@@ -8,7 +8,7 @@ It would be ideal if you ensure you have the accompanying in your machine...
 
 Note: I have downloaded python utilizing Anaconda. 
 
-Python form: 3.6.5 (Try to download all python modules)(Important modules: glob, os, numpy, arbitrary, argparse, time) Eel variant: 0.9.10 (download connect: https://github.com/ChrisKnott/Eel) Opencv rendition: 3.4.3 (Full opencv module. Fisherface module is must) Chrome program is required (eel library is explicitly intended for chrome) 
+Python form: 3.6.5 (Try to download all python modules)(Important modules: glob, os, numpy, random, argparse, time) Eel variant: 0.9.10 (download connect: https://github.com/ChrisKnott/Eel) Opencv rendition: 3.4.3 (Full opencv module. Fisherface module is must) Chrome program is required (eel library is explicitly intended for chrome) 
 
 Download all the records in an folder. Open terminal. 
 
